@@ -274,7 +274,7 @@
                             <constraint firstItem="I6P-ad-MSl" firstAttribute="bottom" secondItem="tTh-h0-qd2" secondAttribute="bottom" constant="50" id="Stn-1c-IKR"/>
                             <constraint firstItem="2z7-Dl-GWY" firstAttribute="leading" secondItem="I6P-ad-MSl" secondAttribute="leading" constant="20" id="YBz-9o-orq"/>
                             <constraint firstItem="tTh-h0-qd2" firstAttribute="leading" secondItem="I6P-ad-MSl" secondAttribute="leading" constant="30" id="ZAb-bW-dpX"/>
-                            <constraint firstAttribute="trailing" secondItem="2z7-Dl-GWY" secondAttribute="trailing" constant="20" id="iq0-wL-2vn"/>
+                            <constraint firstItem="I6P-ad-MSl" firstAttribute="trailing" secondItem="2z7-Dl-GWY" secondAttribute="trailing" constant="20" id="iq0-wL-2vn"/>
                             <constraint firstItem="I6P-ad-MSl" firstAttribute="trailing" secondItem="tTh-h0-qd2" secondAttribute="trailing" constant="30" id="p3A-tB-DH8"/>
                         </constraints>
                     </view>
